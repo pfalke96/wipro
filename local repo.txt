@@ -1,2 +1,6 @@
 this is local repo save on remote repo
 use pull cmd 
+in this line after successfully adding local file to rempre repo
+we are making changes here and need to check this will going to update in local repo or not 
+for that we have to run push cmd
+git push -u origin master
